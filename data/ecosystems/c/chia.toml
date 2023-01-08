@@ -1238,3 +1238,12 @@ url = "https://github.com/ctrlaltdel/chia-ping"
 
 [[repo]]
 url = "https://github.com/farmerdiamonds/chia-walletbalance-nodejs"
+
+[[repo]]
+url = "https://github.com/NFTr/mintr-web"
+
+[[repo]]
+url = "https://github.com/NFTr/mintr-local"
+
+[[repo]]
+url = "https://github.com/NFTr/nft_scripts"
